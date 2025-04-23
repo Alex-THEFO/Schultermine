@@ -1,6 +1,10 @@
-,,,,,,,,
-,,,,,,,,
-,title,date_from,time_from,date_to,time_to,location,bemerkung,status
-,Osterferien,14.04.2025,,25.04.2025,,Ferien,Ferien,
-,Abiturprüfung Deutsch,29.04.2025,,,,Aula,Abiturprüfung,
-,Prüfung Jahrgang 10 Deutsch,30.04.2025,,,,Aula,Prüfung 10 (schriftlich),
+,,,,,,,,,
+,,,,,,,,,
+,title,date_from,time_from,date_to,time_to,location,jahrgang,bemerkung,status
+,Osterferien,14.04.2025,,25.04.2025,,Entfällt,,Entfällt,Entfällt
+,Abiturprüfung Deutsch,29.04.2025,9:00 Uhr,,,Aula,Jahrgang 13,"Abiturprüfung, Prüfung 13 (schriftlich)",
+,Prüfung Jahrgang 10 Deutsch,30.04.2025,9:30 Uhr,,,Aula,Jahrgang 10,Prüfung 10 (schriftlich),
+,Feiertag,01.05.2025,,01.05.2025,,Ferien,,Feiertag / Schulfrei,
+,Unterrichtsfrei,02.05.2025,,02.05.2025,,Ferien,,Feiertag / Schulfrei,
+,Praxislernen 8a,05.05.2025,,16.05.2025,,Praxislernen,,Praxislernen,
+,Abiturprüfungen Gewi (LK's),05.05.2025,9:00 Uhr,,,Aula,,"Abiturprüfung, Prüfung 13 (schriftlich)",
